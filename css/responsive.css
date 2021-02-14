@@ -1,0 +1,326 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /*Css code start*/
+.banner-section {
+    background-image: url(../images/4.png)!important;
+    background-repeat: no-repeat !important;
+    background-position: center!important;
+    background-size: cover!important;
+    height: 726px !important;
+    background-attachment: fixed!important;
+}
+.banner-top .one img {
+    width: 38% !important;
+}
+.divedier {
+    margin: 25px 0px 23px 75px !important;
+    width: 46% !important;
+}
+.banner-top .two h5 {
+    font-size: 14px !important;
+    line-height: 24px !important;
+}
+.simple-inner .four img {
+    width: 235px!important;
+}
+.simple-inner .five p {
+    font-size: 15px !important;
+    line-height: 24px !important;
+}
+.about-1 .seven h3 {
+    font-size: 19.5px !important;
+}
+.about-2 .seven h3 {
+    font-size: 19.5px !important;
+}
+.about-3 .seven h3 {
+    font-size: 19.5px !important;
+}
+.about-1 .eight p {
+    font-size: 14px !important;
+}
+.about-2 .eight p {
+    font-size: 14px !important;
+}
+.about-3 .eight p {
+    font-size: 14px !important;
+}
+.portfolio-top .nine h1 {
+    font-size: 22px !important;
+    line-height: 27px !important;
+}
+.portfolio-top .ten p {
+    font-size: 14px !important;
+}
+.portfolio .icon-hover {
+    width: 92% !important;
+    margin: -238px 0px 0px 0px !important;
+    height: 212px !important;
+}
+.portfolio .icon-hover ul li a i {
+    margin: 89px 0px 0px 4px !important;
+}
+.isStuck {
+    width: 100%!important;
+}
+.stay-top .twelve img{
+	width: 235px!important;
+
+}
+.stay-top .thirt p {
+	font-size: 22px !important;
+}
+.stay-bottom input#exampleInputEmail1 {
+    width: 90% !important;
+}
+.stay-bottom textarea#exampleFormControlTextarea1 {
+   width: 90% !important;
+}
+.form-check-input {
+    margin-left: -16.25rem !important;
+}
+.stay-bottom .form-check-label {
+    font-size: 12px !important;
+    margin: 0px 0px 0px -243px !important;
+}
+.btn-2 {
+    margin: -19px 15px 0px 0px !important;
+    font-size: 13px !important;
+    padding: 6px 33px !important;
+}
+.footer-section h3 {
+    font-size: 12px !important;
+}
+.footer-2 {
+    margin: 12px 0px 0px -4px !important;
+}
+.top {
+    margin: -109px 0px 0px -887px !important;
+}
+
+  /*Css code end*/
+
+}
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+  /*Css code start*/
+	.banner-section {
+    background-image: url(../images/4.png)!important;
+    background-repeat: no-repeat !important;
+    background-position: center!important;
+    background-size: cover!important;
+    height: 755px !important;
+    background-attachment: fixed!important;
+}
+.banner-top .one img {
+    width: 40% !important;
+}
+.divedier {
+    margin: 25px 0px 23px 118px !important;
+    width: 46% !important;
+}
+.banner-top .two h5 {
+    font-size: 19px !important;
+    line-height: 25px !important;
+}
+.simple-inner .four img {
+    width: 250px!important;
+}
+.simple-inner .five p {
+    font-size: 16px !important;
+    line-height: 25px !important;
+}
+.about-1 .seven h3 {
+    font-size: 20px !important;
+}
+.about-2 .seven h3 {
+    font-size: 20px !important;
+}
+.about-3 .seven h3 {
+    font-size: 20px !important;
+}
+.about-1 .eight p {
+    font-size: 17px !important;
+}
+.about-2 .eight p {
+    font-size: 17px !important;
+}
+.about-3 .eight p {
+    font-size: 17px !important;
+}
+.portfolio-top .nine h1 {
+    font-size: 24px !important;
+    line-height: 27px !important;
+}
+.portfolio-top .ten p {
+    font-size: 17px !important;
+}
+.portfolio .icon-hover {
+    width: 94% !important;
+    margin: -353px 0px 0px 0px !important;
+    height: 327px !important;
+}
+.portfolio .icon-hover ul li a i {
+    margin: 141px 0px 0px 4px !important;
+}
+.isStuck {
+    width: 100%!important;
+}
+.stay-top .twelve img{
+	width: 235px!important;
+
+}
+.stay-top .thirt p {
+	font-size: 22px !important;
+}
+.stay-bottom input#exampleInputEmail1 {
+    width: 90% !important;
+}
+.stay-bottom textarea#exampleFormControlTextarea1 {
+   width: 90% !important;
+}
+.form-check-input {
+    margin-left: -16.0rem !important;
+}
+.stay-bottom .form-check-label {
+    font-size: 13px !important;
+    margin: 0px 0px 0px -234px !important;
+}
+.btn-2 {
+    margin: -19px 23px 0px 0px !important;
+    font-size: 13px !important;
+    padding: 6px 33px !important;
+}
+.footer-section h3 {
+    font-size: 13px !important;
+}
+.footer-2 {
+    margin: 12px 0px 0px -4px !important;
+}
+.top {
+    margin: -115px 0px 0px -740px !important;
+}
+
+  /*Css code end*/  
+}
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+ /*Css code start*/
+	.banner-section {
+    background-image: url(../images/4.png)!important;
+    background-repeat: no-repeat !important;
+    background-position: center!important;
+    background-size: cover!important;
+    height: 961px !important;
+    background-attachment: fixed!important;
+}
+.banner-top .one img {
+    width: 41% !important;
+    margin-top: 85px!important;
+}
+.divedier {
+    margin: 26px 0px 23px 177px !important;
+    width: 48% !important;
+}
+.banner-top .two h5 {
+    font-size: 21px !important;
+    line-height: 25px !important;
+}
+.simple-inner .four img {
+    width: 300px!important;
+}
+.simple-inner .five p {
+    font-size: 23px !important;
+    line-height: 28px !important;
+}
+.about-1 .seven h3 {
+    font-size: 17px !important;
+    line-height: 27px!important;
+}
+.about-2 .seven h3 {
+    font-size: 17px !important;
+    line-height: 27px!important;
+}
+.about-3 .seven h3 {
+    font-size: 17px !important;
+    line-height: 27px!important;
+}
+.about-1 .eight p {
+    font-size: 14px !important;
+}
+.about-2 .eight p {
+    font-size: 14px !important;
+}
+.about-3 .eight p {
+    font-size: 14px !important;
+}
+.portfolio-top .nine h1 {
+    font-size: 27px !important;
+    line-height: 27px !important;
+}
+.portfolio-top .ten p {
+    font-size: 18px !important;
+}
+.portfolio .icon-hover {
+    width: 88% !important;
+    margin: -180px 0px 0px 0px !important;
+    height: 152px !important;
+}
+.portfolio .icon-hover ul li a i {
+    margin: 60px 0px 0px 4px !important;
+}
+.isStuck {
+    width: 100%!important;
+}
+.stay-top .twelve img{
+	width: 250px!important;
+
+}
+.stay-top .thirt p {
+	font-size: 25px !important;
+}
+.stay-bottom input#exampleInputEmail1 {
+    width: 90% !important;
+}
+.stay-bottom textarea#exampleFormControlTextarea1 {
+   width: 90% !important;
+}
+.form-check-input {
+    margin-left: -15rem !important;
+}
+.stay-bottom .form-check-label {
+    font-size: 13px !important;
+    margin: 0px 0px 0px -216px !important;
+}
+.btn-2 {
+    margin: -19px 38px 0px 0px !important;
+    font-size: 13px !important;
+    padding: 6px 33px !important;
+}
+.footer-section h3 {
+    font-size: 13px !important;
+}
+.footer-2 {
+    margin: 0px 0px 0px -4px !important;
+}
+.top {
+    margin: -68px 0px 0px -472px !important;
+}
+
+  /*Css code end*/  
+}

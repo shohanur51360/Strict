@@ -1,0 +1,515 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+/**********************************************************
+	*** Global css code html code start ***
+**********************************************************/
+body{
+	font-size: 14px;
+	line-height: 24px;
+	font-family: sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: sans-serif;
+}
+a,a:hover{
+	text-decoration: none;
+}
+html{
+	scroll-behavior: smooth;
+}
+/**********************************************************
+	*** Global css code html code end ***
+**********************************************************/
+
+/**********************************************************
+	*** Header-section css code html code start ***
+**********************************************************/
+.header-section {
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    background: #f6f9f9;
+    padding: 11px 0px;
+}
+.header-inner{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.header-inner img{
+    width: 106px;
+    margin: 0px 0px 0px 0px;
+}
+.bg-light {
+    background-color: transparent!important;
+}
+.navbar-light .navbar-nav .active>.nav-link{
+    color: #2d3950;
+    font-size: 15px;
+    font-weight: 600;
+}
+.navbar-light .navbar-nav .nav-link {
+        color: #2d3950;
+    font-size: 15px;
+    font-weight: 600;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #15a4fa;
+}
+/**********************************************************
+	*** Header-section css code html code end***
+**********************************************************/
+
+/**********************************************************
+	*** Banner-section css code html code start***
+**********************************************************/
+.banner-section{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+	background-image: url(../images/4.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 675px;
+	text-align: center;
+    background-attachment: fixed;
+}
+.banner-top{
+    width: 100%;
+    margin: 202px 0px 0px 0px;
+}
+.banner-top .one img {
+    margin: 0px 0px 0px 0px;
+    width: 24%;
+}
+.banner-top .two h5 {
+    margin: 0px 0px 55px 0px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.divedier {
+    margin: 25px 0px 23px 354px;
+    width: 34%;
+    height: 2px;
+    background: #15a4fa;
+}
+.three .btn-1 {
+    margin: 0px 0px 0px 0px;
+    font-size: 16px;
+    background: transparent;
+    border: 1px solid#15a4fa;
+    padding: 13px 30px;
+    font-weight: 600;
+    border-radius: 3px;
+}
+.three .btn-1:hover{
+	transition: 1s;
+	background: #15a4fa;
+	border: 1px solid#15a4fa;
+	color: #fff;
+}
+.banner-bottom {
+    width: 100%;
+    margin: 174px 0px 0px 0px;
+}
+.banner-bottom img{
+	margin: 0px 0px 0px 0px;
+}
+/**********************************************************
+	*** Banner-section css code html code end***
+**********************************************************/
+
+/**********************************************************
+	*** Simple-section css code html code start***
+**********************************************************/
+.simple-section{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+	background: #f6f9f9;
+	text-align: center;
+	padding: 70px 0px;
+}
+.simple-inner{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.simple-inner .four img {
+    margin: 0px 0px 18px 0px;
+    width: 300px;
+}
+.simple-inner .five p {
+    margin: 0px 0px 0px 0px;
+    color: #999999;
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 500;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/**********************************************************
+	*** Simple-section css code html code end***
+**********************************************************/
+
+/**********************************************************
+	*** About-section css code html code start***
+**********************************************************/
+.about-section{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+	background: #ffffff;
+	padding: 50px 0px;
+	text-align: center;
+
+}
+.about-1{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.about-1 .six img{
+	margin: 0px 0px 0px 0px;
+	width: 26%;
+}
+.about-1 img:hover{
+	box-shadow: 1px 10px 15px #cccc;
+}
+.about-1 .seven h3{
+	color: #454e61;
+    font-size: 21px;
+    font-weight: 600;
+    margin: 25px 0px 16px 0px;
+}
+.about-1 .seven h3:hover{
+	color: #15a4fa;
+}
+.about-1 .eight p{
+	color: #999999;
+    font-size: 15px;
+    font-weight: 500;
+}
+.about-2{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.about-2 .six img{
+	margin: 0px 0px 0px 0px;
+	width: 26%;
+}
+.about-2 img:hover{
+	box-shadow: 1px 10px 15px #cccc;
+}
+.about-2 .seven h3{
+	color: #454e61;
+    font-size: 21px;
+    font-weight: 600;
+    margin: 25px 0px 16px 0px;
+}
+.about-2 .seven h3:hover{
+	color: #15a4fa;
+}
+.about-2 .eight p{
+	color: #999999;
+    font-size: 15px;
+    font-weight: 500;
+}
+.about-3{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.about-3 .six img{
+	margin: 0px 0px 0px 0px;
+	width: 26%;
+}
+.about-3 img:hover{
+	box-shadow: 1px 10px 15px #cccc;
+}
+.about-3 .seven h3{
+	color: #454e61;
+    font-size: 21px;
+    font-weight: 600;
+    margin: 25px 0px 16px 0px;
+}
+.about-3 .seven h3:hover{
+	color: #15a4fa;
+}
+.about-3 .eight p{
+	color: #999999;
+    font-size: 15px;
+    font-weight: 500;
+}
+/**********************************************************
+	*** About-section css code html code end***
+**********************************************************/
+
+/**********************************************************
+	*** Portfolio-section css code html code start***
+**********************************************************/
+.portfolio-section{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+	background: #f6f9f9;
+	padding: 50px 0px;
+	text-align: center;
+}
+.portfolio-top{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.portfolio-top .nine h1 {
+    font-size: 31px;
+    font-weight: 500;
+    color: #2d3950;
+    margin: 0px 0px 10px 0px;
+}
+.portfolio-top .ten p{
+	margin: 0px 0px 60px 0px;
+	color: #979797;
+    font-size: 15px;
+    font-weight: 500;
+}
+.portfolio-bottom{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.portfolio{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.portfolio img {
+    width: 100%;
+    margin: 0px 0px 29px 0px;
+}
+
+.portfolio .icon-hover {
+    width: 92.2%;
+    margin: -283px 0px 0px 0px;
+    height: 256px;
+    text-align: center;
+    background: rgb(21,164,250, .6 );
+    position: absolute;
+    display: none;
+    transition: 1s;
+}
+.portfolio:hover .icon-hover{
+	transition: 1s;
+    display: block;
+}
+.portfolio .icon-hover ul li{
+	list-style: none;
+	display: inline-block;
+}
+.portfolio .icon-hover ul li a i {
+    color: #fff;
+    background: transparent;
+    border: 1px solid #ffffff;
+    padding: 12px;
+    font-size: 16px;
+    margin: 101px 0px 0px 4px;
+    border-radius: 4px;
+}
+.portfolio .icon-hover ul li a i:hover{
+	background: #f6f9f9;
+	color: #08c;
+	border: 1px solid #08c;
+}
+
+/**********************************************************
+	*** Portfolio-section css code html code end***
+**********************************************************/
+
+/**********************************************************
+	*** Stay-section css code html code start***
+**********************************************************/
+.stay-section{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+	background: url(../images/15.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 592px;
+    background-attachment: fixed;
+
+}
+.stay-top{
+	width: 100%;
+	margin: 80px 0px 0px 0px;
+	text-align: center;
+}
+.stay-top .twelve img {
+    margin: 0px 0px 10px 0px;
+    width: 19%;
+}
+.stay-top .thirt p{
+	color: #939495;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0px 0px 48px 0px;
+}
+.stay-bottom{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.stay-bottom input#exampleInputEmail1 {
+    width: 54%;
+    padding: 22px 25px;
+    color: #fff;
+    border: 2px solid#999999;
+    background: transparent;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0px auto;
+}
+.stay-bottom input#exampleInputEmail1:hover{
+	background: #3e495c;
+    color: #fff;
+}
+.stay-bottom textarea#exampleFormControlTextarea1 {
+	width: 54%;
+    padding: 22px 25px;
+    color: #fff;
+    border: 2px solid#999999;
+    background: transparent;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0px auto;
+}
+.stay-bottom textarea#exampleFormControlTextarea1:hover{
+	background: #3e495c;
+    color: #fff;
+}
+.stay-bottom .form-check {
+    position: relative;
+    display: block;
+    padding-left: 1.25rem;
+    margin: -3px 0px 0px 256px;
+}
+.stay-bottom .form-check-label {
+    margin-bottom: 0;
+    color: #fff;
+    font-size: 15px;
+}
+.btn-2 {
+    margin: -19px 257px 0px 0px;
+    font-size: 16px;
+    background: transparent;
+    border: 1px solid#15a4fa;
+    padding: 8px 47px;
+    font-weight: 600;
+    border-radius: 3px;
+    float: right;
+}
+.btn-2:hover{
+	transition: 1s;
+	background: #15a4fa;
+	border: 1px solid#15a4fa;
+	color: #fff;
+}
+/**********************************************************
+	*** Stay-section css code html code end***
+**********************************************************/
+
+/**********************************************************
+	*** Footer-section css code html code start***
+**********************************************************/
+.footer-section {
+    width: 100%;
+    padding: 18px 0px 2px;
+    background: #f6f9f9;
+    margin: 0px 0px 0px 0px;
+}
+.footer-1{
+	width: 100%;
+	 margin: 0px 0px 0px 0px;
+}
+.footer-2{
+	width: 100%;
+	 margin: 0px 0px 0px 119px;
+}
+.footer-section h3 {
+    font-size: 15px;
+    font-weight: 600;
+    color: #aeafaf;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 14px;
+}
+.social-icon{
+	 width: 100%;
+	 margin: 0px 0px 0px 0px;
+}
+.social-icon ul li{
+	list-style: none;
+	display: inline-block;
+}
+.social-icon ul li a i {
+    color: #fff;
+    background: #15a4fa;
+    border: 1px solid #15a4fa;
+    padding: 12px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin: 0px 0px 0px 5px;
+}
+.social-icon ul li a i:hover{
+    background: #fff;
+    color: #15a4fa;
+    border: 1px solid #15a4fa;
+    transition: 0.8s;
+}
+
+/*back to top css start */
+.back-to-top {
+    cursor: pointer;
+    position: relative;
+    bottom: 11px;
+    right: 120px;
+    display: block;
+    background: transparent;
+    border: 0px;
+    margin: -57px -26px 0px 1253px;
+}
+.back-to-top:hover{
+	background: transparent;
+	border: 0px;
+}
+.btn-3 {
+    color: #fff;
+    background-color: transparent!important;
+    border-color:transparent !important;
+}
+.btn-3.focus, .btn-7:focus {
+    color: #fff;
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+
+.btn-3:hover {
+    color: #fff;
+    background-color:transparent !important;
+    border-color: transparent !important;
+}
+/*back to top css end */
+/**********************************************************
+	*** Footer-section css code html code end***
+**********************************************************/
+
+/*plug in link here*/
+
+/*stick up*/
+
+.isStuck{
+    left:0px;
+    width:100%;
+    background: #DCDCDC;
+}
+
+.navbar-wrapper {
+  margin-top:0px;
+  position: relative;
+  z-index: 15;
+  width: 100%;
+}
